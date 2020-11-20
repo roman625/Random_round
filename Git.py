@@ -1,2 +1,2 @@
-a = 'jj'
+a = ''
 print(a)
