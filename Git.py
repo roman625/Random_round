@@ -1,0 +1,2 @@
+a = 'jj'
+print(a)
