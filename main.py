@@ -6,6 +6,7 @@ from PyQt5.QtWidgets import QWidget, QApplication
 from random import random
 
 
+
 class Window(QWidget):
     def __init__(self):
         super().__init__()
