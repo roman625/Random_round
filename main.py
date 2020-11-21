@@ -27,7 +27,6 @@ class Window(QWidget):
 
             qp.setBrush(Qt.yellow)
             qp.drawEllipse(*l)
-
             qp.end()
 
 
